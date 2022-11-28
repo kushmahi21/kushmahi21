@@ -1,5 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Kushagra Ranjan</h1>
-<h3 align="center">A 3rd year MCA Student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+<!-- <h2 align="center">MCA Student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2> -->
+<h3 align="center">Software Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+
 
 <p align="center"> 
   Visitor count<br>
@@ -10,9 +12,9 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp; ***About me:***
 
-- 🔭 I’m currently **Pursuing MCA From PCCOE,PUNE** 
+- 🔭 I finshed **MCA From PCCOE,PUNE** 
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Next JS**
 
 
 - 💬 Ask me about **anything😀**
