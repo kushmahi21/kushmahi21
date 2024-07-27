@@ -1,6 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Kushagra Ranjan</h1>
 <!-- <h2 align="center">MCA Student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2> -->
-<h3 align="center">Software Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+<h3 align="center">Frontend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+<h2 align="center">SoluLab<img src="https://media.licdn.com/dms/image/C510BAQGbJciAIl3Mhg/company-logo_200_200/0/1631431439358/solulab_logo?e=2147483647&v=beta&t=MFhun_JMaj66t-PQ_F1tMCaGa2DHRqvp3Tm3_rel4D8" width="30"> </h2>
 
 
 <p align="center"> 
@@ -14,7 +15,7 @@
 
 - 🔭 I finshed **MCA From PCCOE,PUNE** 
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently working in **Solulab**
 
 
 - 💬 Ask me about **anything😀**
