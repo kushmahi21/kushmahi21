@@ -1,40 +1,88 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Kushagra Ranjan</h1>
-<!-- <h2 align="center">MCA Student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2> -->
-<h3 align="center">Frontend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
-<h2 align="center">SoluLab<img src="https://media.licdn.com/dms/image/C510BAQGbJciAIl3Mhg/company-logo_200_200/0/1631431439358/solulab_logo?e=2147483647&v=beta&t=MFhun_JMaj66t-PQ_F1tMCaGa2DHRqvp3Tm3_rel4D8" width="30"> </h2>
+<h1 align="center">
+  Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
+  I'm <span style="color:#58a6ff">Kushagra Ranjan</span>
+</h1>
 
+<h3 align="center">💻 Frontend Developer | 🎨 UI Enthusiast | 🚀 React Developer</h3>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/kushmahi21/count.svg" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&width=600&lines=MCA+Graduate+from+PCCOE,+Pune;Frontend+Dev+at+SoluLab;React+%7C+JS+%7C+UI+Design+%7C+Animation;Creating+Immersive+Web+Experiences!" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+---
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp; ***About me:***
+## 🧑‍💼 About Me
+- 🎓 MCA Graduate from **PCCOE, Pune**  
+- 💼 Currently working at **SoluLab**  
+- 🌟 Passionate about **Frontend**, **React**, **Web Animations**, and **UI/UX**
+- 🚀 I specialize in **building sleek interfaces** with clean, scalable code
+- 🌱 Always exploring new frameworks and tools
+- 📫 Reach me: [kushagra.ranjan21@gmail.com](mailto:kushagra.ranjan21@gmail.com)
 
-- 🔭 I finshed **MCA From PCCOE,PUNE** 
+---
 
-- 🌱 I’m currently working in **Solulab**
+## ⚙️ Tech Stack & Tools
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,tailwind,figma,vscode,github,git,c" />
+</p>
 
-- 💬 Ask me about **anything😀**
+<!-- Animated Background -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213912633-5d69a0ce-76f4-43b3-9a1c-6fbdbb98c5d6.gif" width="100%" />
+</p>
 
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-nishu.kushagra5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nishu.kushagra5@gmail.com)](mailto:nishu.kushagra5@gmail.com)
+---
 
+## 📊 GitHub Stats
 
-<h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp;  Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kushmahi21&theme=tokyonight&show_icons=true&count_private=true&border_radius=15" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushmahi21&theme=tokyonight&hide_border=false&border_radius=15" width="47%" />
+</p>
 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c++" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="47" height="45"/> </a>
-  
-<!--   <br> -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="37" height="37"/> </a>
-<!-- <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kushmahi21&theme=tokyonight" width="90%" />
+</p>
 
-<a href="https://www.w3.org/html/" target="_blank"><a><img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="48"></a> 
-<a><img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="40"></a> 
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kushagra-ranjan/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kushagra.ranjan21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/kushmahi21">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 👁️ Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kushmahi21&style=for-the-badge&color=58a6ff" alt="Visitor Counter"/>
+</p>
+
+---
+
+## 🔥 Fun Zone: Just Vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220px" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220px" />
+  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="220px" />
+</p>
+
+---
+
+### 💬 Let's Build Something Amazing Together!
+
+> _"Code is not just code — it's a story waiting to be experienced."_
+
+⭐ If you like this profile, give it a **star** and let’s connect!
